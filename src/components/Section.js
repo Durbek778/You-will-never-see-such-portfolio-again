@@ -1,8 +1,10 @@
 import React from "react";
+import { useLocation } from "react-router";
 import mika from "./assets/mika.jpg";
 import "./styles/Section.css";
 
 export const Section = () => {
+  const { pathname } = useLocation();
   return (
     <section className="main-section">
       <div className="container">
