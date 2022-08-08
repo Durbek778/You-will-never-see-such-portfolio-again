@@ -12,11 +12,11 @@ const Second = () => {
         </div>
 
         <div className="text-2">
-          <p>I live in Sonnam-si 🇰🇷</p>
+          <p>I live in Seongnam-si 🇰🇷</p>
           <p>I am 7 month old📆</p>
           <p>I do not know anything about coding🤗</p>
           <p>My owner is university student 🤓</p>
-          <p>I like sleaping and distracting my owner😻</p>
+          <p>I like sleeping and distracting my owner😻</p>
           <p>I hate my owner and staying at home alone😾</p>
           <p>I`ve an instagram account with the nick name 'immika4'😼</p>
         </div>

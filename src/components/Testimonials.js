@@ -13,10 +13,10 @@ const Testimonials = () => {
           <img src={t1} alt="" />
           <p>Durbek</p>
           <h5>
-            Hi there I am the owner of this that. This the first and the worst
+            Hi there I am the owner of this cat. This is the first and the worst
             cat which I have ever had. Mika always wants to play with me even
             when I am coding, reading, playing(video games ) and even when I am
-            sleaping, but she is so cute so I love her.
+            sleeping, but she is so cute so I love her.
           </h5>
         </div>
 
